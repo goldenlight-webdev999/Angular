@@ -2,13 +2,13 @@
 // `ng build --prod` replaces `environment.ts` with `environment.prod.ts`.
 // The list of file replacements can be found in `angular.json`.
 
-// const HOST_URL1 = "http://81.82.247.124:8880/v1.0";
-// const HOST_URL2 = "http://81.82.247.124:8883/v1.0";
+// const HOST_URL1 = "http://xxxx/v1.0";
+// const HOST_URL2 = "http://xxxx/v1.0";
 export const environment = {
   production: false,
-  apiUrl: 'http://109.237.216.152:8880/v1.0',//  apiUrl: 'http://192.168.19.25:8880/v1.0'  //  
-  licenceUrl: "https://www.boa-platform.com/licence"
-  // licenceUrl: "http://licence.localhost"
+  apiUrl: 'http://xxxx/v1.0',//  apiUrl: 'http://xxxx/v1.0'  //  
+  licenceUrl: "https://yyyy/licence"
+  // licenceUrl: "http://yyyy"
 };
 
 /*http://localhost:4200
